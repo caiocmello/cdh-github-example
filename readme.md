@@ -3,3 +3,4 @@
 - drink coffee
 - drink some more
 - finish coffee
+- tidy up cup
